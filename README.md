@@ -38,6 +38,14 @@ Bu manifesto, insan anatomisindeki yirmi yaş dişlerinin (üçüncü azı dişl
 
 ---
 
+## 🎯 **Perde Kornişi ve Kilit Halkası Örneği**: Yirmilik Dişlerin Fonksiyonel Rolü
+
+Yirmilik dişlerin işlevini anlamak için **perde kornişi ve halkası** metaforunu kullanabiliriz. Bir perde kornişi, perdenin düzgün bir şekilde hareket etmesini sağlamak için kenarlarda bir sınır oluşturur. Bu sınır, perdenin düzgün bir şekilde rayda hareket etmesini sağlar, dışarıya kaymasını engeller ve düzenli bir şekilde açılıp kapanmasını garanti eder. Eğer perde kornişinin kenarında herhangi bir eksiklik ya da bozulma olursa, perde düzgün hareket etmez ve düzen bozulur.
+
+Bu, yirmilik dişlerin çene yapısındaki rolüne benzetilebilir. Diğer dişler, çene yapısında bir "ekip" olarak çalışır. Her bir diş çiğneme fonksiyonunu ve çene yapısının dengesini sağlamak için kendi görevini yerine getirir. Yirmilik dişler ise, bu ekipte bazen fazlalık gibi gözükebilir. Ancak, aslında bu dişlerin varlığı, çene yapısının düzenini korur. Perde kornişindeki halkaların eksikliği, perdenin düzgün hareket etmesini engellediği gibi, yirmilik dişlerin eksikliği de çene yapısının düzgün çalışmasını zorlaştırabilir.
+
+---
+
 ## 📢 Çağrımız
 
 > Bu dişlerin hakkını arıyoruz.  
@@ -64,4 +72,3 @@ Bu manifesto, 20’lik dişlerin kendini savunamayan ama işlevini kaybetmemiş 
 ---
 
 **Destekliyor musun? Forkla. Geliştir. Yorumla. Katıl.**
-
